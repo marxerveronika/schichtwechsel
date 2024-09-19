@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<meta charset="UTF-8">
+		<title>Emily Chapps</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <meta name="description" content="senior creative strategist, social media director, concept director & creative producer.">
+        
+		<link rel="apple-touch-icon" sizes="180x180" href="assets/images/meta/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="assets/images/meta/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="assets/images/meta/favicon-16x16.png">
+		<link rel="manifest" href="assets/images/meta/site.webmanifest">
+		<link rel="mask-icon" href="assets/images/meta/safari-pinned-tab.svg" color="#000000">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="theme-color" content="#ffffff">
+
+		<meta property="og:image" content="assets/images/meta/meta.png">
+		<meta name="twitter:image" content="assets/images/meta/meta.png">
+		
+		<link href="http://chapps.online/assets/dist/css/stylesheet.css" rel="stylesheet">
+	</head>
+
+	<body>
+<main>
+
+    <section id="canvasElement"></section>
+
+    <section class="masthead">
+        <h1 class="masthead__title">Emily Chapps</h1>
+        <h1><p>senior creative strategist, social media director, concept director &amp; creative producer.</p></h1>
+    </section> 
+
+    <span class="instructions">
+        click & drag<span class="instructions__desktop"><br>&#x1F447;</span>
+    </span>
+    
+    <nav class="nav">
+        <ul>
+            <li>
+                <a class="nav__link" href="https://bit.ly/3JOs3in" target="_blank" alt="Portfolio">
+                    <img src="assets/images/icons/icon-portfolio.svg">
+                    <span class="nav__link-text">portfolio</span>
+                </a>
+            </li>
+                            <li>
+                    <a class="nav__link--ep" href="https://emilychapps.substack.com/" target="_blank" alt="Email">
+                        <img src="assets/images/icons/icon-everpress.svg">
+                        <span class="nav__link-text">shop</span>
+                    </a>
+                </li>
+                        <li>
+                <a class="nav__link" href="mailto:emily@chapps.online" target="_blank" alt="Email">
+                    <img src="assets/images/icons/icon-email.svg">
+                    <span class="nav__link-text">email</span>
+                </a>
+            </li>
+            <li>
+                <a class="nav__link" href="https://www.linkedin.com/in/emilycchappell/?originalSubdomain=uk" target="_blank" alt="LinkedIn">
+                    <img src="assets/images/icons/icon-linkedin.svg">
+                    <span class="nav__link-text">linkedin</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+</main>
+
+ 
+        <script src="main.js"></script>
+        </body>
+</html>
