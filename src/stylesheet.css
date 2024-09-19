@@ -84,8 +84,8 @@ table {
 }
 @font-face {
   font-family: "archivo_black";
-  src: url("../../fonts/archivo_black.eot");
-  src: local("☺"), url("../../fonts/archivo_black.woff") format("woff"), url("../../fonts/archivo_black.ttf") format("truetype"), url("../../fonts/archivo_black.svg") format("svg");
+  src: url("https://github.com/marxerveronika/schichtwechsel/blob/main/src/Items-Regular.woff2");
+  src: local("☺"), url("https://github.com/marxerveronika/schichtwechsel/blob/main/src/Items-Regular.woff2") format("woff"), url("../../fonts/archivo_black.ttf") format("truetype"), url("../../fonts/archivo_black.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
