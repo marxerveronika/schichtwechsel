@@ -3,7 +3,7 @@
 	<head>
 
 		<meta charset="UTF-8">
-		<title>Emily Chapps</title>
+		<title>Kunstverein Schichtwechsel</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <meta name="description" content="senior creative strategist, social media director, concept director & creative producer.">
         
@@ -15,7 +15,7 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="theme-color" content="#ffffff">
 
-		<meta property="og:image" content="assets/images/meta/meta.png">
+		<meta property="og:image" content="https://github.com/marxerveronika/schichtwechsel/blob/main/src/component_large-link.png">
 		<meta name="twitter:image" content="assets/images/meta/meta.png">
 		
 		<link href="http://chapps.online/assets/dist/css/stylesheet.css" rel="stylesheet">
@@ -27,7 +27,7 @@
     <section id="canvasElement"></section>
 
     <section class="masthead">
-        <h1 class="masthead__title">Emily Chapps</h1>
+        <h1 class="masthead__title">Schichtwechsel</h1>
         <h1><p>senior creative strategist, social media director, concept director &amp; creative producer.</p></h1>
     </section> 
 
